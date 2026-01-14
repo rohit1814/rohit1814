@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Rohit 👋  
 
-<!--
-**rohit1814/rohit1814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Machine Learning Engineer** working across **Machine Learning, Deep Learning, and Generative AI**.  
+I build **production-ready AI systems** — from model development to scalable deployment — with a strong focus on reliability and real-world impact.
 
-Here are some ideas to get you started:
+### What I work on
+- 🤖 **ML, DL & GenAI models**
+- 🧠 **LLMs, RAG & agentic workflows**
+- 🕸️ **Knowledge Graphs & semantic retrieval**
+- ⚙️ **Production ML & AI infrastructure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- **Languages:** Python, SQL, Java, C++  
+- **ML/DL:** PyTorch, TensorFlow, Hugging Face  
+- **GenAI:** LLMs, RAG, LangChain, LangGraph, Agno  
+- **Backend & Infra:** FastAPI, Neo4j, Docker, AWS  
+
+I enjoy turning **research ideas and prototypes into scalable, deployable systems**.
+
+📫 Feel free to connect or collaborate.
