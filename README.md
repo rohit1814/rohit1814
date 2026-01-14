@@ -1,7 +1,7 @@
 # Hi, I’m Rohit 👋  
 
 I’m a **Machine Learning Engineer** working across **Machine Learning, Deep Learning, and Generative AI**.  
-I build **production-ready AI systems** - from model development to scalable deployment — with a strong focus on reliability and real-world impact.
+I build **production-ready AI systems** - from model development to scalable deployment - with a strong focus on reliability and real-world impact.
 
 ### What I work on
 - 🤖 **ML, DL & GenAI models**
